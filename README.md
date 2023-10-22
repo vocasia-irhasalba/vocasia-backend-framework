@@ -49,7 +49,7 @@ jika berhasil akan muncul seperti ini :
 ### How To Generate Controller Automatic ?
 * untuk membuat controller secara otomatis silahkan jalankan skrip berikut di terminal :
   ```
-  npm run generate-controller your_controller_name here
+  npm run generate-controller your_controller_name
   ```
 * jika berhasil maka akan terbuat file controller baru
 # Resources 
