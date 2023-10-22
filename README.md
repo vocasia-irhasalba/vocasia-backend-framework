@@ -45,6 +45,13 @@ jika berhasil akan muncul seperti ini :
     "message" : "Hello exampleController"
 }
 ```
+
+### How To Generate Controller Automatic ?
+* untuk membuat controller secara otomatis silahkan jalankan skrip berikut di terminal :
+  ```
+  npm run generate-controller your_controller_name
+  ```
+* jika berhasil maka akan terbuat file controller baru
 # Resources 
 * ExpressJs
 * Sequelize
